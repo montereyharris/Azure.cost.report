@@ -9,7 +9,7 @@ This is a PowerShell Module wrapper for RateCard API and Billing API in Azure. T
 To install this you have two options: 
 #git
     git clone https://github.com/montereyharris/Azure.cost.report.git %USERPROFILE%\Documents\WindowsPowerShell\Modules\Azure.Cost.Report
- or
+
     git clone https://github.com/montereyharris/Azure.cost.report.git %WINDIR%\System32\WindowsPowerShell\v1.0\ModulesAzure.Cost.Report
 
 #GUI
